@@ -1,0 +1,43 @@
+body{
+    background-color: #f5e3cd;
+}
+
+h1,h2,h3{
+    color: #6b342b;
+}
+p,ol,ul,li{
+    color: rgb(112, 82, 42);
+}
+
+img{
+    height: 150px;
+    widows: 150px;
+}
+
+div.carta{
+    text-align: left;
+}
+
+div.cafe{
+    text-align: center;
+}
+
+div.contacto{
+    text-align: right;
+}
+h2.titulo{
+    text-align: center
+}
+li.negro{
+    color: black;
+}
+col.fondo{
+    background-color: lightsalmon;
+}
+td.fondo_concreto{
+    background-color: #f5e3cd;
+}
+table{
+    color: maroon;
+    position: center;
+}
